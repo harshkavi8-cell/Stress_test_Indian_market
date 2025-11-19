@@ -1,6 +1,5 @@
 # Portfolio Stress Testing – Indian Equity Portfolio
 
-[![Open In Colab]https://colab.research.google.com/drive/1OTZiUAchHEC7SgWqHa7tNMl9hO4V1ha_?usp=sharing](https://github.com/yourusername/your-repo-name/blob/main/Portfolio_Stress_Test.ipynb)
 ---
 
 ## **Overview**
